@@ -1,4 +1,4 @@
-FBOpen <a href="https://ci.solanolabs.com:443/Initech/fbopen/suites/165724"><img src="https://ci.solanolabs.com:443/Initech/fbopen/badges/165724.png"></a>
+FBOpen <a href="https://ci.solanolabs.com:443/electronspin/fbopen/suites/230319"><img src="https://ci.solanolabs.com:443/electronspin/fbopen/badges/branches/master?badge_token=e52009322e69bf51c5b5292152b708accd0b317e"></a>
 ======
 
 FBOpen is an open API server, data import tools, and sample apps to help small businesses search for opportunities to work with the U.S. government.
